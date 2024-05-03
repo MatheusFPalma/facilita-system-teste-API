@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/cookie-parser": "^1.4.7",
+    "cookie-parser": "^1.4.6",
+    "csurf": "^1.11.0"
+  },
+  "devDependencies": {
+    "@types/csurf": "^1.11.5"
+  }
+}
